@@ -2,7 +2,8 @@ Welcome to the WiDSAI Python Workshop! Please follow the steps below to create a
 Steps to Create a Copy and Edit the Notebook:
 
     Access the Notebook:
-        Click on the following link to open the Google Colab notebook: [Open Google Colab Notebook](https://colab.research.google.com/drive/1dF7hj7BjNH5RWcGKskdJRYkkdq8WDDiL?usp=sharing)
+        Click on the following link to open the Google Colab notebook:
+        https://colab.research.google.com/drive/1dF7hj7BjNH5RWcGKskdJRYkkdq8WDDiL?usp=sharing
 
     Make a Copy of the Notebook:
         Once the notebook is open, go to the File menu at the top left of the Colab interface.
