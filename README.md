@@ -10,6 +10,10 @@ Steps to Create a Copy and Edit the Notebook:
         Select Save a copy in Drive from the dropdown menu.
             This will create a copy of the notebook in your own Google Drive that you can edit.
 
+    Access the Data:
+        The data needed for this workshop is readily accessible via the links provided within the Workshop's Colab notebook.
+        If you encounter any issues with the link, you can also find the CSV file within the repository.
+
     Edit Your Copy:
         Now that you have a copy of the notebook, you can freely make any changes, working through the workshop notebook at your own pace.
         All changes you make will be saved automatically to your copy in Google Drive.
@@ -20,7 +24,8 @@ Steps to Create a Copy and Edit the Notebook:
 
 Additional Information:
 
-    The notebook is hosted on Google Colab, a free cloud-based platform for running Python code. You do not need any special setup or installation to use it.
+    The notebook is hosted on Google Colab, a free cloud-based platform for running Python code. 
+    You do not need any special setup or installation to use it.
     If you encounter any issues or have questions, feel free to reach out to the creator of this notebook.
 
 Happy coding!
